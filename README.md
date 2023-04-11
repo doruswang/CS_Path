@@ -1,4 +1,5 @@
-# CS_Path
+# Computics Path 
+## About The Project
 The practiced repertoire of a computics self-learner.  
 ઐ&nbsp; "computics" is a self-coined word as a substitute of "computer science" with a subtle difference from the direct combination of "computing" and "mathematics" and a distinct difference from "computational mathematics".  
 ઐ&nbsp; In this document, the unicode character "ઐ" (U+0A90, ai) is selected as the annotation mark because of its shape.
