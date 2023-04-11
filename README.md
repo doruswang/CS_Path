@@ -3,7 +3,7 @@
 The practiced repertoire of a computics self-learner.
 
 ઐ&nbsp; "computics" is a self-coined word as a substitute of "computer science" with a subtle difference from the direct combination of "computing" and "mathematics" and a distinct difference from "computational mathematics".  
-&emsp;Actually, from a personal perspective, "computer" is a physical incarnation of an algebra system (specially, Boolean algebra), and an unprecedented kind of methematics dependent on the existence of computers is developed since 1940s, which is used to deal with the "computable" problems and called theoretical "computer science" usually. Thus, "computics" is a term more relevant to its mathematical nature and engineering core.
+&ensp; Actually, from a personal perspective, "computer" is a physical incarnation of an algebra system (specially, Boolean algebra), and an unprecedented kind of methematics dependent on the existence of computers has been developed since 1940s, which is used to deal with the "computable" problems and called theoretical "computer science" usually. Thus, "computics" is a term more relevant to its mathematical nature and engineering core.
 
 ઐ&nbsp; In this document, the unicode character "ઐ" (U+0A90, ai) is selected as the annotation mark because of its shape.
 
